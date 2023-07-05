@@ -3,7 +3,7 @@ Solving the Cluedo mystery problem by programming a robot to autonomously naviga
 
 # Cluedo Mystery Problem 
 1) Robot needs to identify and enter the green room (not the red room) using its onboard camera whilst avoiding collision with obstacles.
-2) Robot needs to find the Cluedo poster in the green room and use Computer Vision to identify the Cluedo character
+2) Robot needs to find the Cluedo poster in the green room and use Computer Vision methods to identify the Cluedo character
 
 - Project was divided into two sections: Motion Planning and Computer Vision.
 - Programming was written in ROS using python. 
